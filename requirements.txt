@@ -1,0 +1,18 @@
+Requirements are
+
+Python--
+numpy
+matplotlib
+pandas
+scikit-learn
+streamlit
+
+To install the required packages, use the following command:
+   >>  pip install numpy
+   >>  pip install matplotlib
+   >>  pip install pandas
+   >>  pip install scikit-learn
+   >>  pip install streamlit
+
+To run the model on ocal server, use the following command:
+   >>  streamlit run __ModelName__
