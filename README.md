@@ -1,3 +1,5 @@
-Python base MachineLearning small projects for practice
+Python based small Machine-Learning project.
 
-One can run them using the streamlit in a local server
+I am Chetan Krishna Srivastav. I made these models for practice.
+
+One can run them using the streamlit in a local server.
